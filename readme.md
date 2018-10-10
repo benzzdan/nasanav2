@@ -26,5 +26,3 @@ INTRUCCIONES PARA EL DEPLOY LOCAL
 8. npm run dev
 9. php artisan serve
 10. Abre tu navegador y la app estará corriendo en: http://localhost:8000
-
-
