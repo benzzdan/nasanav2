@@ -1,4 +1,4 @@
-INSTRUCTIONS FOR DEPLOYMENT
+INSTRUCTIONS FOR DEPLOYMENTSSSSS
 
 1. git clone https://github.com/benzzdan/nasanav2.git
 2. cd nasanav2
